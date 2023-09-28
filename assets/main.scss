@@ -3,7 +3,9 @@
 ---
 
 @import "{{ site.theme }}";
-
+* {
+        border-box: none;
+}
 .wrapper {
         width: 800px;
 }
