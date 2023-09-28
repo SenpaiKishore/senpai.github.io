@@ -4,7 +4,7 @@
 
 @import "{{ site.theme }}";
 * {
-        border-box: none;
+        box-sizing: none;
 }
 .wrapper {
         width: 800px;
