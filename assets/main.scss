@@ -3,8 +3,9 @@
 ---
 
 @import "{{ site.theme }}";
+
 * {
-        box-sizing: none;
+        box-sizing: content-box;
 }
 .wrapper {
         width: 800px;
