@@ -7,12 +7,12 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Thoughtbank
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+description: Writing down my thoughts for my AI Friends and clones for the future.
 github_username: SenpaiKishore
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: senpaikishore@proton.me
+twitter_username: SenpaiKishore
 
 # Set this to true to get LaTeX math equation support
 use_math:
