@@ -26,8 +26,7 @@
     
 ### Personal projects:
 - Density based Traffic control system (when I was 14 years old)
-
-![image-title-here](,./images/desity-traffic-control.png){:class="img-responsive"}
+![](/images/desity-traffic-control.png)
 
 - Coded custom CRM + Operations software interior furniture manufacturing company.
 - 3d environments in Blender
