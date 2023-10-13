@@ -54,6 +54,8 @@
 </div>
 <script async src="https://www.instagram.com/embed.js"></script>
 
+<iframe src="https://www.instagram.com/sentientartist/embed" width="300px" height="100%" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<script async src="https://www.instagram.com/embed.js"></script>
 
 - Videography + Davinci Resolve/Premiere Pro:
 <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
