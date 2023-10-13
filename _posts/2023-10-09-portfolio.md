@@ -33,12 +33,11 @@
 - Calisthenics 
     
 ## My Projects:
-1. Coded custom CRM + Operations software interior furniture manufacturing company.
-2. 3d models in Solidworks
-3. Density based Traffic control system (when I was 14 years old)
-<img src="/images/density-traffic-control.png" width="300">
+- Coded custom CRM + Operations software interior furniture manufacturing company.
+- 3d models in Solidworks
+- Density based Traffic control system (when I was 14 years old) <img src="/images/density-traffic-control.png" width="300">
 
-4. 3d environments in Blender:
+- 3d environments in Blender:
 <div style="text-align:center;">
 <div style="display: inline-block;">
 <iframe src="https://www.instagram.com/sentientartist/embed" width="100%" height="100%" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
@@ -46,7 +45,7 @@
 </div>
 <script async src="https://www.instagram.com/embed.js"></script>
 
-5. Photography + Photoshop + Lightroom:
+- Photography + Photoshop + Lightroom:
 <div style="text-align:center;">
 <div style="display: inline-block;">
 <iframe src="https://www.instagram.com/explorerofmap/embed" width="100%" height="100%" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
@@ -59,17 +58,18 @@
 </div>
 </div>
 <script async src="https://www.instagram.com/embed.js"></script>
-6. Videography + Davinci Resolve/Premiere Pro:
+
+- Videography + Davinci Resolve/Premiere Pro:
 <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
 <div class="elfsight-app-ca87de08-58b7-4055-955c-6385d2dde2de"></div>
 
-### My Values
+## My Values
 - **Curiosity**, Strong need to know the *truth* about this universe. [My crime is that of curiosity](http://phrack.org/issues/7/3.html).
 - Highly confident in my ability to **learn new & complex skills very quickly.**
 - **Optimist** by default, cuz I believe in the power of [Goddess of Everything Else](https://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/).
 - Sense of humility, because I understand, as a human, I have limited domain space of data from subjective experience, at a given time. Always looking for new perspectives/ideas that evolve my mind.
 
-### Official Work experience:
+## Official Work experience:
 **Lukwood Kitchen (2021-2023):**
 - I was the interior designer, but also managed some operations and marketing aswell.
 - Used ArredoCAD and AutoCAD to craft client designs.
