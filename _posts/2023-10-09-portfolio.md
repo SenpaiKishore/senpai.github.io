@@ -40,7 +40,7 @@
 - 3d environments in Blender:
 <div style="text-align:center;">
 <div style="display: inline-block;">
-<iframe src="https://www.instagram.com/sentientartist/embed" width="100%" height="100%" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<iframe src="https://www.instagram.com/sentientartist/embed" width="350" height="400" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 </div>
 </div>
 <script async src="https://www.instagram.com/embed.js"></script>
@@ -48,13 +48,13 @@
 - Photography + Photoshop + Lightroom:
 <div style="text-align:center;">
 <div style="display: inline-block;">
-<iframe src="https://www.instagram.com/explorerofmap/embed" width="100%" height="100%" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<iframe src="https://www.instagram.com/explorerofmap/embed" width="350" height="400" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 </div>
 </div>
 <script async src="https://www.instagram.com/embed.js"></script>
 <div style="text-align:center;">
 <div style="display: inline-block;">
-<iframe src="https://www.instagram.com/pixelofdreams/embed" width="100%" height="100%" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<iframe src="https://www.instagram.com/pixelofdreams/embed" width="350" height="400" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 </div>
 </div>
 <script async src="https://www.instagram.com/embed.js"></script>
