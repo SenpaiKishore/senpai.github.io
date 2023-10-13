@@ -63,6 +63,32 @@
 <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
 <div class="elfsight-app-ca87de08-58b7-4055-955c-6385d2dde2de"></div>
 
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Remove the script element
+    var scriptToRemove = document.querySelector('script[src="https://static.elfsight.com/platform/platform.js"]');
+    if (scriptToRemove) {
+      scriptToRemove.remove();
+    }
+
+    // Function to remove the specific element with the link
+    function removeLink() {
+      var elementToRemove = document.querySelector('a[href="https://elfsight.com/youtube-channel-plugin-yottie/?utm_source=websites&utm_medium=clients&utm_content=yottie&utm_term=%website_domain%&utm_campaign=free-widget"]');
+      if (elementToRemove) {
+        elementToRemove.remove();
+      }
+    }
+
+    // Check for the existence of the element and periodically attempt to remove it
+    var interval = setInterval(function() {
+      if (document.querySelector('a[href="https://elfsight.com/youtube-channel-plugin-yottie/?utm_source=websites&utm_medium=clients&utm_content=yottie&utm_term=%website_domain%&utm_campaign=free-widget"]')) {
+        removeLink();
+        clearInterval(interval); // Stop checking once removed
+      }
+    }, 1000); // Check every 1 second (adjust this interval as needed)
+  });
+</script>
+
 ## My Values
 - **Curiosity**, Strong need to know the *truth* about this universe. [My crime is that of curiosity](http://phrack.org/issues/7/3.html).
 - Highly confident in my ability to **learn new & complex skills very quickly.**
