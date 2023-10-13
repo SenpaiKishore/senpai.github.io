@@ -4,7 +4,7 @@
 **Indore, India 📍** <br />
 **kishore.sensei@gmail.com** <br />
 **[@SenpaiKishore (X/Twitter)](https://twitter.com/SenpaiKishore)**
-
+---
 
 ### Software Skills:
 - C++
@@ -32,7 +32,7 @@
 - Hydroponics and Aquaponics
 - Calisthenics 
     
-## My Projects:
+### My Projects:
 - Coded custom CRM + Operations software interior furniture manufacturing company.
 - 3d models in Solidworks
 - Density based Traffic control system (when I was 14 years old) <img src="/images/density-traffic-control.png" width="300">
@@ -89,13 +89,13 @@
   });
 </script>
 
-## My Values
+### My Values
 - **Curiosity**, Strong need to know the *truth* about this universe. [My crime is that of curiosity](http://phrack.org/issues/7/3.html).
 - Highly confident in my ability to **learn new & complex skills very quickly.**
 - **Optimist** by default, cuz I believe in the power of [Goddess of Everything Else](https://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/).
 - Sense of humility, because I understand, as a human, I have limited domain space of data from subjective experience, at a given time. Always looking for new perspectives/ideas that evolve my mind.
 
-## Official Work experience:
+### Official Work experience:
 **Lukwood Kitchen (2021-2023):**
 - I was the interior designer, but also managed some operations and marketing aswell.
 - Used ArredoCAD and AutoCAD to craft client designs.
