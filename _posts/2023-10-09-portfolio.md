@@ -7,10 +7,10 @@
 ---
 
 ### Software Skills:
-- C++
 - Python
 - Creative coding (vanilla js, p3.js)
 - Linux/ bash script
+- C++
 - HTML, CSS, Javascript, Flask (Web Development)
     
 ### Software Tools Profeciencies:
