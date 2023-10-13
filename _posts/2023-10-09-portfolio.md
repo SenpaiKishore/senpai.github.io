@@ -1,8 +1,8 @@
 # Portfolio
 ### Kishore Gunalan
-**05-01-2003 | 20 years old** </br>
-**Indore, India 📍** </br>
-**kishore.sensei@gmail.com** </br>
+**05-01-2003 | 20 years old** <br />
+**Indore, India 📍** <br />
+**kishore.sensei@gmail.com** <br />
 **[@SenpaiKishore (X/Twitter)](https://twitter.com/SenpaiKishore)**
 
 
@@ -61,7 +61,7 @@
 
 
 ### Official Work experience:
-**Lukwood Kitchen (2021-2023):** </br>
+**Lukwood Kitchen (2021-2023):**
 - I was the interior designer, but also managed some operations and marketing aswell.
 - Used ArredoCAD and AutoCAD to craft client designs.
 - I also oversaw material procurement and inventory management time to time.
