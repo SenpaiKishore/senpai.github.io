@@ -30,7 +30,13 @@
 - Music: Guitar, Piano, mixing
 - Astrophotography
 - Hydroponics and Aquaponics
-- Calisthenics 
+- Calisthenics
+
+### My Values
+- **Curiosity**, Strong need to know the *truth* about this universe. [My crime is that of curiosity](http://phrack.org/issues/7/3.html).
+- Highly confident in my ability to **learn new & complex skills very quickly.**
+- **Optimist** by default, cuz I believe in the power of [Goddess of Everything Else](https://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/).
+- Sense of humility, because I understand, as a human, I have limited domain space of data from subjective experience, at a given time. Always looking for new perspectives/ideas that evolve my mind.
     
 ### My Projects:
 - Coded custom CRM + Operations software interior furniture manufacturing company.
@@ -88,12 +94,6 @@
     }, 1000); // Check every 1 second (adjust this interval as needed)
   });
 </script>
-
-### My Values
-- **Curiosity**, Strong need to know the *truth* about this universe. [My crime is that of curiosity](http://phrack.org/issues/7/3.html).
-- Highly confident in my ability to **learn new & complex skills very quickly.**
-- **Optimist** by default, cuz I believe in the power of [Goddess of Everything Else](https://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/).
-- Sense of humility, because I understand, as a human, I have limited domain space of data from subjective experience, at a given time. Always looking for new perspectives/ideas that evolve my mind.
 
 ### Official Work experience:
 **Lukwood Kitchen (2021-2023):**
