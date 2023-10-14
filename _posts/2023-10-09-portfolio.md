@@ -40,8 +40,8 @@
 
 ### Formal Education
 Ryan International School, Indore 
-- [Senior Secondary(GPA)](https://imgur.com/tluJzVv): 9.2
-- [Higher Secondary(GPA)](https://imgur.com/KYRwSeh): 7.7
+- [Senior Secondary(CGPA10)](https://imgur.com/tluJzVv): 9.2
+- [Higher Secondary(CGPA10)](https://imgur.com/KYRwSeh): 7.7
   
 ### My Projects:
 - Coded custom CRM + Operations software interior furniture manufacturing company.
